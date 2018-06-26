@@ -139,7 +139,7 @@ The following fields are common to all resources in the American Art API.
 					id: "876139cb-4069-4874-a9e0-ab2d9866daef"
 				}],
 				links: {
-					self: "https://api.si.edu/jsonapi/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/artwork_images"
+					self: "https://api.si.edu/saam/v1/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/artwork_images"
 				}
 			},
 			centuries: {
@@ -148,7 +148,7 @@ The following fields are common to all resources in the American Art API.
 					id: "12b920f4-9054-40b9-8c60-8943cd3a52a0"
 				},
 				links: {
-					self: "https://api.si.edu/jsonapi/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/centuries"
+					self: "https://api.si.edu/saam/v1/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/centuries"
 				}
 			},
 			classifications: {
@@ -162,7 +162,7 @@ The following fields are common to all resources in the American Art API.
 					}
 				],
 				links: {
-					self: "https://api.si.edu/jsonapi/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/classifications"
+					self: "https://api.si.edu/saam/v1/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/classifications"
 				}
 			},
 			highlights: {
@@ -184,7 +184,7 @@ The following fields are common to all resources in the American Art API.
 					}
 				],
 				links: {
-					self: "https://api.si.edu/jsonapi/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/highlights"
+					self: "https://api.si.edu/saam/v1/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/highlights"
 				}
 			},
 			locations: {
@@ -202,7 +202,7 @@ The following fields are common to all resources in the American Art API.
 					}
 				],
 				links: {
-					self: "https://api.si.edu/jsonapi/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/locations"
+					self: "https://api.si.edu/saam/v1/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/locations"
 				}
 			},
 			artists: {
@@ -211,7 +211,7 @@ The following fields are common to all resources in the American Art API.
 					id: "4039d113-5302-426d-9c9d-e4bf3db87f7e"
 				}],
 				links: {
-					self: "https://api.si.edu/jsonapi/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/artists"
+					self: "https://api.si.edu/saam/v1/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/artists"
 				}
 			},
 			rights_types: {
@@ -220,12 +220,12 @@ The following fields are common to all resources in the American Art API.
 					id: "b74965ce-6059-4b9a-bd95-4d8104620df8"
 				},
 				links: {
-					self: "https://api.si.edu/jsonapi/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/rights_types"
+					self: "https://api.si.edu/saam/v1/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54/relationships/rights_types"
 				}
 			}
 		},
 		links: {
-			self: "https://api.si.edu/jsonapi/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54"
+			self: "https://api.si.edu/saam/v1/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54"
 		}
 	}
 }
@@ -483,7 +483,7 @@ Contains information on entities that have some association to works of art in t
 					}
 				],
 				links: {
-					self: "https://api.si.edu/jsonapi/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e/relationships/artworks"
+					self: "https://api.si.edu/saam/v1/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e/relationships/artworks"
 				}
 			},
 			nationalities: {
@@ -492,7 +492,7 @@ Contains information on entities that have some association to works of art in t
 					id: "d0245a03-9f85-4050-a80f-4a444aee1e10"
 				},
 				links: {
-					self: "https://api.si.edu/jsonapi/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e/relationships/nationalities"
+					self: "https://api.si.edu/saam/v1/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e/relationships/nationalities"
 				}
 			},
 			related_books: {
@@ -501,7 +501,7 @@ Contains information on entities that have some association to works of art in t
 					id: "c6157886-b371-4253-9217-871195c05daa"
 				}],
 				links: {
-					self: "https://api.si.edu/jsonapi/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e/relationships/related_books"
+					self: "https://api.si.edu/saam/v1/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e/relationships/related_books"
 				}
 			},
 			us_states: {
@@ -510,12 +510,12 @@ Contains information on entities that have some association to works of art in t
 					id: "cef3c250-8719-40ea-8572-7e921a5f3a8c"
 				}],
 				links: {
-					self: "https://api.si.edu/jsonapi/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e/relationships/us_states"
+					self: "https://api.si.edu/saam/v1/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e/relationships/us_states"
 				}
 			}
 		},
 		links: {
-			self: "https://api.si.edu/jsonapi/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e"
+			self: "https://api.si.edu/saam/v1/artists/4039d113-5302-426d-9c9d-e4bf3db87f7e"
 		}
 	}
 }
@@ -591,7 +591,7 @@ Contains information on entities that have some association to works of art in t
 					}
 				],
 				links: {
-					self: "https://api.si.edu/jsonapi/institutions/1f2ef80a-897c-46f6-8824-991e6d320e48/relationships/artworks"
+					self: "https://api.si.edu/saam/v1/institutions/1f2ef80a-897c-46f6-8824-991e6d320e48/relationships/artworks"
 				}
 			},
 			nationalities: {
@@ -600,12 +600,12 @@ Contains information on entities that have some association to works of art in t
 					id: "d0245a03-9f85-4050-a80f-4a444aee1e10"
 				},
 				links: {
-					self: "https://api.si.edu/jsonapi/institutions/1f2ef80a-897c-46f6-8824-991e6d320e48/relationships/nationalities"
+					self: "https://api.si.edu/saam/v1/institutions/1f2ef80a-897c-46f6-8824-991e6d320e48/relationships/nationalities"
 				}
 			}
 		},
 		links: {
-			self: "https://api.si.edu/jsonapi/institutions/1f2ef80a-897c-46f6-8824-991e6d320e48"
+			self: "https://api.si.edu/saam/v1/institutions/1f2ef80a-897c-46f6-8824-991e6d320e48"
 		}
 	}
 }
@@ -688,7 +688,7 @@ Contains information on entities that have some association to works of art in t
 					id: "c5af4424-9bd6-4828-9f40-e140474a0abd"
 				}],
 				links: {
-					self: "https://api.si.edu/jsonapi/exhibitions/dc4bf972-f39e-44c8-ba14-f44c9fab54c8/relationships/exhibition_codes"
+					self: "https://api.si.edu/saam/v1/exhibitions/dc4bf972-f39e-44c8-ba14-f44c9fab54c8/relationships/exhibition_codes"
 				}
 			},
 			publication: {
@@ -697,12 +697,12 @@ Contains information on entities that have some association to works of art in t
 					id: "c6157886-b371-4253-9217-871195c05daa"
 				}],
 				links: {
-					self: "https://api.si.edu/jsonapi/exhibitions/dc4bf972-f39e-44c8-ba14-f44c9fab54c8/relationships/publication"
+					self: "https://api.si.edu/saam/v1/exhibitions/dc4bf972-f39e-44c8-ba14-f44c9fab54c8/relationships/publication"
 				}
 			}
 		},
 		links: {
-			self: "https://api.si.edu/jsonapi/exhibitions/dc4bf972-f39e-44c8-ba14-f44c9fab54c8"
+			self: "https://api.si.edu/saam/v1/exhibitions/dc4bf972-f39e-44c8-ba14-f44c9fab54c8"
 		}
 	}
 }
@@ -769,12 +769,12 @@ Contains information on entities that have some association to works of art in t
 					}
 				}],
 				links: {
-					self: "https://api.si.edu/jsonapi/audio/8abede9a-b374-4255-9d05-723103cdede1/relationships/file"
+					self: "https://api.si.edu/saam/v1/audio/8abede9a-b374-4255-9d05-723103cdede1/relationships/file"
 				}
 			}
 		},
 		links: {
-			self: "https://api.si.edu/jsonapi/audio/8abede9a-b374-4255-9d05-723103cdede1"
+			self: "https://api.si.edu/saam/v1/audio/8abede9a-b374-4255-9d05-723103cdede1"
 		}
 	},
 }
@@ -856,12 +856,12 @@ Contains information on entities that have some association to works of art in t
 					id: "836cca46-559a-4a44-83be-333d3e568395"
 				}],
 				links: {
-					self: "https://api.si.edu/jsonapi/books/2ad06661-5b8e-41ae-af2b-ddf7f7e5711e/relationships/images"
+					self: "https://api.si.edu/saam/v1/books/2ad06661-5b8e-41ae-af2b-ddf7f7e5711e/relationships/images"
 				}
 			}
 		},
 		links: {
-			self: "https://api.si.edu/jsonapi/books/2ad06661-5b8e-41ae-af2b-ddf7f7e5711e"
+			self: "https://api.si.edu/saam/v1/books/2ad06661-5b8e-41ae-af2b-ddf7f7e5711e"
 		}
 	}
 }
