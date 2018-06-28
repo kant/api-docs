@@ -934,7 +934,7 @@ Resources are returned with a `relationships` property which contains links to r
 
 
 > ```
-> http://saam.test/api/v1/collection/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54?include=artwork_images,artwork_images.artwork_image,artists,classifications,highlights,locations
+> https://api.si.edu/saam/v1/collection/artworks/dd19ac03-04e8-4d20-bfe9-ecfc238ebd54?include=artwork_images,artwork_images.artwork_image,artists,classifications,highlights,locations
 > ```
 > Get a specific artwork, and include data for the artwork images and categories.
 
