@@ -939,7 +939,7 @@ Resources are returned with a `relationships` property which contains links to r
 > Get a specific artwork, and include data for the artwork images and categories.
 
 
-## Contact
+## Feedback
 
-[Contact](https://americanart.si.edu/about/contact) for issues or feedback related to the American Art API
+[Contact](https://github.com/Smithsonian/api-docs/issues) for issues or feedback related to the American Art API
 
