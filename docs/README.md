@@ -13,9 +13,3 @@ https://api.si.edu
 
 [filename](_includes/api_key_form.html ':include')
 
-
-## APIs
-
-* [American Art Api](SAAM.md)
-
-powered by docsify
