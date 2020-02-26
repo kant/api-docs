@@ -1,7 +1,7 @@
 <!-- The SAAM API -->
 # American Art API
 
-!> WARNING! The American Art API has been depreciated. The endpoints will no longer be accessible at the end of March 2020.
+!> WARNING! The American Art API has been depreciated, and is being replaced by the [Smithsonian Open Access API](http://edan.si.edu/openaccess/apidocs/). The American Art API endpoints will no longer be accessible at the end of March 2020.
 
 The American Art API exposes art & artists from the [Smithsonian American Art Museum's](https://americanart.si.edu) collection. The API is follows [{JSON:API}](http://jsonapi.org/) specs.  
 > All requests to the American Art API are prefixed with `/saam/v1/`
